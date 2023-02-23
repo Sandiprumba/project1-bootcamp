@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rocket-Academy-bootcamp-project-1/static/css/main.7e597872.css",
+    "main.js": "/Rocket-Academy-bootcamp-project-1/static/js/main.17f171c3.js",
+    "index.html": "/Rocket-Academy-bootcamp-project-1/index.html",
+    "main.7e597872.css.map": "/Rocket-Academy-bootcamp-project-1/static/css/main.7e597872.css.map",
+    "main.17f171c3.js.map": "/Rocket-Academy-bootcamp-project-1/static/js/main.17f171c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e597872.css",
+    "static/js/main.17f171c3.js"
+  ]
+}
